@@ -1,3 +1,4 @@
+3
 ---
 title: Working with the NuGet registry
 intro: 'You can configure the `dotnet` command-line interface (CLI) to publish NuGet packages to {% data variables.product.prodname_registry %} and to use packages stored on {% data variables.product.prodname_registry %} as dependencies in a .NET project.'
